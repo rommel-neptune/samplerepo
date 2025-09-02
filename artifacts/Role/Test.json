@@ -1,0 +1,11 @@
+{
+	"id": "afe7efff-010c-49c3-a7dc-650a26c7efdd",
+	"createdAt": "2025-09-02T09:28:47.658Z",
+	"createdBy": "playwright",
+	"name": "Test",
+	"description": null,
+	"ver": "25.09.02.0928",
+	"isGlobalAdmin": false,
+	"package": "adf8033a-1a9d-4c38-85a6-7eb4156a4d5c",
+	"acl": []
+}
