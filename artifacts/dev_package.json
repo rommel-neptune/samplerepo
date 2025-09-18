@@ -8,7 +8,7 @@
 	},
 	"name": "Test",
 	"description": null,
-	"ver": "25.09.02.0928",
+	"ver": "25.09.02.0933",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -43,12 +43,24 @@
 	],
 	"systems": [],
 	"doc": [],
-	"wf_notifications": [],
+	"wf_notifications": [
+		{
+			"id": "09f89703-0ecb-490d-9621-6ee0e016a705",
+			"name": "Test and Verification Template",
+			"description": "{i18n.TestAndVerificationModel>EmailSubject.ServerScript}"
+		}
+	],
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"i18n": [],
+	"i18n": [
+		{
+			"id": "47595a0b-1022-423f-ba39-39d5b944f840",
+			"name": "TestAndVerificationModel",
+			"description": null
+		}
+	],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],

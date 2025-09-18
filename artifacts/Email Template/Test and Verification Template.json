@@ -1,0 +1,12 @@
+{
+	"id": "09f89703-0ecb-490d-9621-6ee0e016a705",
+	"createdAt": "2025-09-11T09:28:54.587Z",
+	"createdBy": "playwright",
+	"translation": null,
+	"name": "Test and Verification Template",
+	"description": "{i18n.TestAndVerificationModel>EmailSubject.ServerScript}",
+	"content": "<p>{i18n.TestAndVerificationModel&gt;EmailContent.ServerScript}<br></p>",
+	"ver": "25.09.18.0939",
+	"type": "template",
+	"package": "adf8033a-1a9d-4c38-85a6-7eb4156a4d5c"
+}

@@ -1,0 +1,115 @@
+{
+	"id": "47595a0b-1022-423f-ba39-39d5b944f840",
+	"createdAt": "2025-09-11T08:20:57.495Z",
+	"createdBy": "playwright",
+	"attributes": [
+		{
+			"name": "EmailContent",
+			"NO": {
+				"text": "Hallo verden!\\n\\nDette er bare et eksempel på innhold for e-postmalen. Ikke noe spesielt her ...\\n\\nHilsen,\\nJohn Doe"
+			},
+			"type": "XTXT",
+			"text": "Hello World!\\n\\nThis is just a sample content for the email template. Nothing special here...\\n\\nRegards,\\nJohn Doe"
+		},
+		{
+			"parent": "EmailContent",
+			"name": "EmailContent.ActivateCode",
+			"text": "Here is your activation code to access your launchpad",
+			"NO": {
+				"text": "Her er aktiveringskoden din for å få tilgang til Launchpad-en din"
+			},
+			"type": "XTXT"
+		},
+		{
+			"parent": "EmailContent",
+			"name": "EmailContent.PasswordReset",
+			"text": "You have requested to reset your password. \\nPlease click on the link to reset for a new password.",
+			"NO": {
+				"text": "Du har bedt om å tilbakestille passordet ditt. \\nKlikk på lenken for å få et nytt passord."
+			},
+			"type": "XTXT"
+		},
+		{
+			"parent": "EmailContent",
+			"name": "EmailContent.ServerScript",
+			"text": "This sample email content was sent from Script Editor",
+			"NO": {
+				"text": "Dette innholdet i e-posteksemplet ble sendt fra Script Editor"
+			},
+			"type": "XTXT"
+		},
+		{
+			"parent": "EmailContent",
+			"name": "EmailContent.WorkflowApproval",
+			"text": "Please approve this approval...",
+			"NO": {
+				"text": "Vennligst godkjenn denne godkjenningen..."
+			},
+			"type": "XTXT"
+		},
+		{
+			"name": "EmailSubject",
+			"text": "Sample Email Subject: Hello World!",
+			"EN": {
+				"text": "Sample Email Subject"
+			},
+			"type": "XTXT",
+			"NO": {
+				"text": "Eksempel på e-postemne: Hallo verden!"
+			}
+		},
+		{
+			"parent": "EmailSubject",
+			"name": "EmailSubject.ActivateCode",
+			"text": "Activation Code Request",
+			"NO": {
+				"text": "Forespørsel om aktiveringskode"
+			},
+			"type": "XTXT"
+		},
+		{
+			"parent": "EmailSubject",
+			"name": "EmailSubject.PasswordReset",
+			"NO": {
+				"text": "Forespørsel om tilbakestilling av passord"
+			},
+			"type": "XTXT",
+			"text": "Request for Password Reset"
+		},
+		{
+			"parent": "EmailSubject",
+			"name": "EmailSubject.ServerScript",
+			"text": "Send Email via Script Editor",
+			"NO": {
+				"text": "Send e-post via skriptredigeringsprogram"
+			},
+			"type": "XTXT"
+		},
+		{
+			"parent": "EmailSubject",
+			"name": "EmailSubject.WorkflowApproval",
+			"text": "Workflow Approval Request",
+			"NO": {
+				"text": "Forespørsel om godkjenning av arbeidsflyt"
+			},
+			"type": "XTXT"
+		}
+	],
+	"locales": [
+		{
+			"isoCode": "NO"
+		}
+	],
+	"name": "TestAndVerificationModel",
+	"description": null,
+	"fallbackLocale": "NO",
+	"application": null,
+	"ver": "25.09.18.0939",
+	"package": "adf8033a-1a9d-4c38-85a6-7eb4156a4d5c",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [],
+	"baseModel": null
+}
